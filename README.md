@@ -16,9 +16,6 @@ public interface Filter<A, B> extends MappedTypePair<A, B> {
     D dest, MappingContext mappingContext);
   
 }
-
-
-
 ```
 
 ```
